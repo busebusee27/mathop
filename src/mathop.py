@@ -71,6 +71,3 @@ cli.add_command(mult)
 cli.add_command(div)
 cli.add_command(mod)
 cli.add_command(exp)
-
-# if __name__ == '__main__':
-#     cli()
